@@ -1,0 +1,2 @@
+# Emmy2015
+I am trying to integrate Chained Adaptive Paypal to my website. I have all codes and API but when upload the codes in my main server it keeps giving me the following error: Fatal error: Class 'PPMessage' not found in /hsphere/local/home/aaaluli/gototherapy.com/plugins/paypal/lib/services/AdaptivePayments/AdaptivePayments.php on line 12    Please kindly help me out, how I can find the missing class!!! 
